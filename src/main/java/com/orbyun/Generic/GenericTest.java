@@ -15,6 +15,17 @@ import java.util.logging.SimpleFormatter;
 public class GenericTest {
     @Test
     public void test8() {
+
+        //nihaosssssssssssssss
+
+
+
+
+
+
+        LocalDate localDate1 = LocalDate.now();
+        System.out.println(localDate1);
+
         LocalDate localDate = LocalDate.now();
         System.out.println(localDate);
 
