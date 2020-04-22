@@ -17,6 +17,7 @@ public class GenericTest {
     public void test8() {
 
         //nihaosssssssssssssss
+        //这是分支解决iss53的问题
 
 
 
