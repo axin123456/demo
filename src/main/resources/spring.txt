@@ -1,0 +1,3 @@
+class=com.orbyun.testreflect.Service1
+
+method=doService2
