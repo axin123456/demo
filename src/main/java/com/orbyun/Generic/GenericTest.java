@@ -19,7 +19,7 @@ public class GenericTest {
         //nihaosssssssssssssss
         //这是分支解决iss53的问题
         //这是分支解决iss53的问题
-//hotfix线上紧急问题解决
+        //hotfix线上紧急问题解决
 
 
 
